@@ -1,0 +1,13 @@
+C:\Users\soham\source\repos\EmailRegex\EmailRegex\bin\Debug\netcoreapp3.1\EmailRegex.exe
+C:\Users\soham\source\repos\EmailRegex\EmailRegex\bin\Debug\netcoreapp3.1\EmailRegex.deps.json
+C:\Users\soham\source\repos\EmailRegex\EmailRegex\bin\Debug\netcoreapp3.1\EmailRegex.runtimeconfig.json
+C:\Users\soham\source\repos\EmailRegex\EmailRegex\bin\Debug\netcoreapp3.1\EmailRegex.runtimeconfig.dev.json
+C:\Users\soham\source\repos\EmailRegex\EmailRegex\bin\Debug\netcoreapp3.1\EmailRegex.dll
+C:\Users\soham\source\repos\EmailRegex\EmailRegex\bin\Debug\netcoreapp3.1\EmailRegex.pdb
+C:\Users\soham\source\repos\EmailRegex\EmailRegex\obj\Debug\netcoreapp3.1\EmailRegex.csprojAssemblyReference.cache
+C:\Users\soham\source\repos\EmailRegex\EmailRegex\obj\Debug\netcoreapp3.1\EmailRegex.AssemblyInfoInputs.cache
+C:\Users\soham\source\repos\EmailRegex\EmailRegex\obj\Debug\netcoreapp3.1\EmailRegex.AssemblyInfo.cs
+C:\Users\soham\source\repos\EmailRegex\EmailRegex\obj\Debug\netcoreapp3.1\EmailRegex.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\EmailRegex\EmailRegex\obj\Debug\netcoreapp3.1\EmailRegex.dll
+C:\Users\soham\source\repos\EmailRegex\EmailRegex\obj\Debug\netcoreapp3.1\EmailRegex.pdb
+C:\Users\soham\source\repos\EmailRegex\EmailRegex\obj\Debug\netcoreapp3.1\EmailRegex.genruntimeconfig.cache
